@@ -82,6 +82,10 @@ Make sure the YDLidar SDK is properly installed. Refer to:
    python autonomous_car.py
    ```
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> fce963f7e7518e0d6433835c8a7173ab4b20aa04
 4. The car will begin moving forward, continuously scanning and adjusting its steering to avoid obstacles.
 
 ---
