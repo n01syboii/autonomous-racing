@@ -82,9 +82,6 @@ Make sure the YDLidar SDK is properly installed. Refer to:
    python autonomous_car.py
    ```
 
-   ```
-
-   ```
 
 4. The car will begin moving forward, continuously scanning and adjusting its steering to avoid obstacles.
 
@@ -128,11 +125,3 @@ Make sure the YDLidar SDK is properly installed. Refer to:
 - Extend support for side obstacles (lateral scanning).
 
 ---
-
-```
-
-```
-
-```
-
-```
